@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx shadcn@latest add switch label textarea select -y --overwrite)"
+    ]
+  }
+}
